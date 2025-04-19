@@ -1,60 +1,54 @@
-🐾 Pet Simulator – Group 135
-Welcome to the Pet Simulator, a fun and interactive Python program that lets you create and care for your own virtual pet. This project was developed by Group 135 as part of the PLP Academy OOP Challenge.
+# 🐾 Pet Simulator – Group 135
 
-📌 Table of Contents
-About the Project
+Welcome to the **Pet Simulator**, a fun and interactive Python program that lets you create and care for your own virtual pet. This project was developed by **Group 135** as part of the PLP Academy OOP Challenge.
 
-Features
+---
 
-How to Use
+## 📌 Table of Contents
 
-Screenshots
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Authors and Contributors](#authors-and-contributors)
+- [Future Improvements](#future-improvements)
 
-Technologies Used
+---
 
-Authors and Contributors
+## 🐶 About the Project
 
-Future Improvements
-
-🐶 About the Project
-The Pet Simulator is a Python-based application designed to simulate the experience of owning and interacting with a virtual pet. It utilizes object-oriented programming (OOP) principles to create a Pet class with attributes and methods that allow users to perform various actions with their pet.
+The **Pet Simulator** is a Python-based application designed to simulate the experience of owning and interacting with a virtual pet. It utilizes object-oriented programming (OOP) principles to create a `Pet` class with attributes and methods that allow users to perform various actions with their pet.
 
 This project is beginner-friendly and demonstrates the use of:
 
-Classes and objects
+- **Classes and objects**
+- **Methods and attributes**
+- **User input handling**
+- **Loops and conditional statements**
+- **Basic error handling**
 
-Methods and attributes
+---
 
-User input handling
+## 🌟 Features
 
-Loops and conditional statements
+- **Create a Pet**: Name your pet and start interacting with it.
+- **Feed Your Pet**: Keep your pet happy and healthy by feeding it.
+- **Play with Your Pet**: Spend quality time with your pet to increase its happiness.
+- **Teach Tricks**: Teach your pet new tricks and watch it grow smarter.
+- **Check Status**: View your pet's current status, including its health and happiness levels.
+- **Sleep Mode**: Allow your pet to rest and recharge.
+- **Show Tricks**: Display all the tricks your pet has learned.
+- **Exit Gracefully**: Close the simulator with a friendly goodbye message.
 
-Basic error handling
+---
 
-🌟 Features
-Create a Pet: Name your pet and start interacting with it.
+## 🚀 How to Use
 
-Feed Your Pet: Keep your pet happy and healthy by feeding it.
+1. **Clone the repository** to your local machine:
 
-Play with Your Pet: Spend quality time with your pet to increase its happiness.
-
-Teach Tricks: Teach your pet new tricks and watch it grow smarter.
-
-Check Status: View your pet's current status, including its health and happiness levels.
-
-Sleep Mode: Allow your pet to rest and recharge.
-
-Show Tricks: Display all the tricks your pet has learned.
-
-Exit Gracefully: Close the simulator with a friendly goodbye message.
-
-🚀 How to Use
-Clone the repository to your local machine:
-
-
-git clone https://github.com/dav22-wa/OOP-Challenge.git
-Navigate to the project directory:
-
+   ```bash
+   git clone https://github.com/dav22-wa/OOP-Challenge.git
 
 cd OOP-Challenge
 Run the program:
