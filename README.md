@@ -27,7 +27,8 @@ Create a class called `Pet` with the following:
 - Add a method `show_tricks()` that prints all learned tricks.
 
 ---
-## output screenshot<img width="720" alt="output screenshot" src="https://github.com/user-attachments/assets/edcf1825-bb57-4147-950d-4fbac330db7b" />
+## output screenshot
+<img width="720" alt="output screenshot" src="https://github.com/user-attachments/assets/edcf1825-bb57-4147-950d-4fbac330db7b" />
 
 
 
