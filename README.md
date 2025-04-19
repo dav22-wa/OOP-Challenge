@@ -61,11 +61,25 @@ python main.py
 Follow the on-screen instructions to interact with your pet.
 
 ## 📸 Screenshots
-### 🎭 Displaying Learned Tricks
-This screenshot shows the interface where the pet's learned tricks are displayed:
+### 🏠 Main Menu  
+This screenshot shows the main menu where users can choose different actions for their pet:
+
+![Main Menu](screenshots/main_menu.png)
+
+### ⚽ Playing with Your Pet  
+This screenshot shows the pet being played with to increase its happiness:
+
+![Playing with Pet](screenshots/playing.png)
+
+### 🎭 Displaying Learned Tricks  
+This screenshot shows the list of tricks your pet has learned so far:
 
 ![Displaying Tricks](screenshots/display_tricks.png)
 
+### 📚 Teaching New Tricks  
+This screenshot shows how to teach your pet new tricks to enhance its skill set:
+
+![Teach Trick](screenshots/teach_trick.png)
 ## 🛠️ Technologies Used
 Programming Language: Python
 
