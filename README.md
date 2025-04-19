@@ -61,10 +61,10 @@ python main.py
 Follow the on-screen instructions to interact with your pet.
 
 ## 📸 Screenshots
-### 🧠 Pet Tricks Display
-This shows how the simulator displays all the tricks your pet has learned:
+### 🎭 Displaying Learned Tricks
+This screenshot shows the interface where the pet's learned tricks are displayed:
 
-![Pet Tricks Display](screenshots/pet_tricks_display.png)
+![Displaying Tricks](screenshots/display_tricks.png)
 
 ## 🛠️ Technologies Used
 Programming Language: Python
