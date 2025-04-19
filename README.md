@@ -1,4 +1,4 @@
-# 🐾 Pet Simulator – Group 135
+#  Pet Simulator – Group 135
 
 Welcome to the **Pet Simulator**, a fun and interactive Python program that lets you create and care for your own virtual pet. This project was developed by **Group 135** as part of the PLP Academy OOP Challenge.
 
