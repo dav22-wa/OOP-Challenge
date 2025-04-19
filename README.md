@@ -49,31 +49,28 @@ This project is beginner-friendly and demonstrates the use of:
 
    ```bash
    git clone https://github.com/dav22-wa/OOP-Challenge.git
-Navigate to the project directory:
+   
+**Navigate to the project directory:**
 
-bash
-Copy
-Edit
 cd OOP-Challenge
-Run the program:
 
-bash
-Copy
-Edit
+**Run the program:**
+
+
 python main.py
 Follow the on-screen instructions to interact with your pet.
 
-📸 Screenshots
+## 📸 Screenshots
 Add relevant screenshots here to showcase the main features of your project.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Programming Language: Python
 
-Libraries:
+## Libraries:
 
 time: Used for delays and animations.
 
-👥 Authors and Contributors
+## 👥 Authors and Contributors
 This project was developed as part of the PLP Academy Group Assignment by Group 135. Below are the contributors:
 
 Victoria Anazodo – ifunanyavictoria16@gmail.com
@@ -96,7 +93,7 @@ Felix Oluoch – oroches254@gmail.com
 
 Rashid Kisitu – kisiturashid01@gmail.com
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 🖥️ Graphical User Interface (GUI): Introduce a visually appealing GUI for better interaction.
 
 🧼 Additional Pet Actions: Add features like grooming or vet checkups.
