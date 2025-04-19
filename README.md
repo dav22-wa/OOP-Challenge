@@ -52,11 +52,12 @@ This project is beginner-friendly and demonstrates the use of:
 
 Navigate to the project directory:
 
-'''bash
+```bash
 cd OOP-Challenge
+
 Run the program:
 
-bash
+```bash
 python main.py
 Follow the on-screen instructions to interact with your pet.
 
