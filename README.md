@@ -55,10 +55,12 @@ Navigate to the project directory:
 ```bash
 cd OOP-Challenge
 
+
 Run the program:
 
 ```bash
 python main.py
+
 Follow the on-screen instructions to interact with your pet.
 
 ## 📸 Screenshots
