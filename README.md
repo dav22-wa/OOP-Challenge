@@ -27,38 +27,6 @@ Create a class called `Pet` with the following:
 - Add a method `show_tricks()` that prints all learned tricks.
 
 ---
-
-## 📝 How to Complete
-
-1. Fork or clone this repo.
-2. Write your `Pet` class in `pet.py`.
-3. In `main.py`, create a pet object and call its methods to test functionality.
-4. Submit a GitHub repo or a zipped folder with your code and a screenshot of the output.
-
----
-
-## ✅ Sample Output
-
-```bash
-Creating pet: Max
-Max is eating...
-Max is playing...
-Max is sleeping...
-Max's current status:
-Hunger: 2
-Energy: 8
-Happiness: 9
-Tricks: ['roll over', 'play dead']
+## output screenshot
 
 
-### 💡 Tips
-Use max() and min() to keep values between 0 and 10.
-
-Think about edge cases like trying to play when energy is 0.
-
-🏁 Submission
-Deadline: [Set your date]
-
-Submission format: clone / fork this repo
-
-Bonus points for creativity (custom actions, emojis, pet types, etc.)
