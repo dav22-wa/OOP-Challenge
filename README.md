@@ -1,34 +1,121 @@
-# 🐶 Python OOP Challenge: Build Your Own Digital Pet
+🐾 Pet Simulator – Group 135
+Welcome to the Pet Simulator, a fun and interactive Python program that lets you create and care for your own virtual pet. This project was developed by Group 135 as part of the PLP Academy OOP Challenge.
 
-Welcome to this week's Python challenge! 🎉
+📌 Table of Contents
+About the Project
 
-In this challenge, you’ll be creating a virtual pet using Object-Oriented Programming concepts in Python. This fun project will help you practice how to use classes, attributes, methods, and constructors.
+Features
 
----
+How to Use
 
-## 🧠 Objective
+Screenshots
 
-Create a class called `Pet` with the following:
+Technologies Used
 
-### Attributes:
-- `name`: the name of your pet
-- `hunger`: an integer representing hunger level (0 = full, 10 = very hungry)
-- `energy`: an integer representing energy level (0 = tired, 10 = fully rested)
-- `happiness`: an integer (0–10)
+Authors and Contributors
 
-### Methods:
-- `eat()`: reduces hunger by 3 points (but not below 0), and increases happiness by 1.
-- `sleep()`: increases energy by 5 points (but not above 10).
-- `play()`: decreases energy by 2, increases happiness by 2, and increases hunger by 1.
-- `get_status()`: prints the current state of the pet.
+Future Improvements
 
-### Bonus 🎯
-- Add a method `train(trick)` that teaches your pet a new trick and stores it in a list.
-- Add a method `show_tricks()` that prints all learned tricks.
+🐶 About the Project
+The Pet Simulator is a Python-based application designed to simulate the experience of owning and interacting with a virtual pet. It utilizes object-oriented programming (OOP) principles to create a Pet class with attributes and methods that allow users to perform various actions with their pet.
 
----
-## output screenshot
-<img width="720" alt="output screenshot" src="https://github.com/user-attachments/assets/edcf1825-bb57-4147-950d-4fbac330db7b" />
+This project is beginner-friendly and demonstrates the use of:
+
+Classes and objects
+
+Methods and attributes
+
+User input handling
+
+Loops and conditional statements
+
+Basic error handling
+
+🌟 Features
+Create a Pet: Name your pet and start interacting with it.
+
+Feed Your Pet: Keep your pet happy and healthy by feeding it.
+
+Play with Your Pet: Spend quality time with your pet to increase its happiness.
+
+Teach Tricks: Teach your pet new tricks and watch it grow smarter.
+
+Check Status: View your pet's current status, including its health and happiness levels.
+
+Sleep Mode: Allow your pet to rest and recharge.
+
+Show Tricks: Display all the tricks your pet has learned.
+
+Exit Gracefully: Close the simulator with a friendly goodbye message.
+
+🚀 How to Use
+Clone the repository to your local machine:
+
+
+git clone https://github.com/dav22-wa/OOP-Challenge.git
+Navigate to the project directory:
+
+
+cd OOP-Challenge
+Run the program:
+
+
+python main.py
+Follow the on-screen instructions to interact with your pet.
+
+📸 Screenshots
+Note: Please add relevant screenshots of your application here.
+
+🛠️ Technologies Used
+Programming Language: Python
+
+Libraries:
+
+time: Used for delays and animations.
+
+👥 Authors and Contributors
+This project was developed as part of the PLP Academy Group Assignment by Group 135. Below are the contributors:
+
+Victoria Anazodo
+📧 ifunanyavictoria16@gmail.com
+
+Sarah Wambui
+📧 wambuimchegez@gmail.com
+
+Mutiat Bamidele
+📧 bintbamidele@gmail.com
+
+Richelle Asmah
+📧 asmahrichelle9@gmail.com
+
+Dancun Odhiambo
+📧 odhiambodancun144@gmail.com
+
+Linah Ntinyari
+📧 linahntinyari9@gmail.com
+
+David Waihenya
+📧 davidwaihenya254@gmail.com
+
+Grace Akinyi
+📧 graceakinyi0074@gmail.com
+
+Felix Oluoch
+📧 oroches254@gmail.com
+
+Rashid Kisitu
+📧 kisiturashid01@gmail.com
+
+🔮 Future Improvements
+Graphical User Interface (GUI): Introduce a visually appealing GUI to improve user interaction and experience.
+
+Additional Pet Actions: Expand the range of actions, such as grooming your pet or taking it to the vet for checkups.
+
+Scoring System: Implement a scoring mechanism to track and reward users for taking good care of their pet.
+
+Save and Load Feature: Allow users to save their pet's progress and resume their journey anytime.
+
+Thank you for using the Pet Simulator! We hope you enjoy interacting with your virtual pet. 🐾
 
 
 
